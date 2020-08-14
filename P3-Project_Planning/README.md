@@ -29,3 +29,4 @@ https://trello.com/b/3ouUHX1a/ebay-organizer
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+https://github.com/tkeller333/ebay_organizer.git
