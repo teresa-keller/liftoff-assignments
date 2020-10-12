@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-C:\Users\tkell\lc101\liftoff-assignments\P6-Project_Presentation\capstone-presentation-template.pdf
+https://drive.google.com/file/d/1tIFalSPmhwJum8a8rYMrJct3183xK0S-/view?usp=sharing
