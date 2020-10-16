@@ -13,5 +13,5 @@ https://github.com/teresa-keller
 https://www.linkedin.com/in/teresa-keller-0531789/
 
 ### Resume
-https://drive.google.com/file/d/1IbWC5cyk8ILntbJMlX-Y84X-uMj7pNx-/view?usp=sharing
+https://docs.google.com/document/d/1Mhd58X6GmvjDy3uvaohB3xgdY0Wn0wP5MTOq6_q4ZOU/edit#
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
